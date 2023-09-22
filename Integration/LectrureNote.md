@@ -66,3 +66,9 @@ AR은 MR, XR, VR의 개념을 다 가지고 있음
 
 이후에 군대에서 만들어지거나 교육 프로그램, HMDs의 창시자가 있었음
 
+## AR04
+
+유니티 AR툴킷을 많이 사용
+
+ARCore, ARKit, Vuforia, EasyAR, ARFoundation
+
