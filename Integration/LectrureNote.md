@@ -64,7 +64,13 @@ AR은 MR, XR, VR의 개념을 다 가지고 있음
 
 과거에도 AR의 형태는 존재했음
 
-이후에 군대에서 만들어지거나 교육 프로그램, HMDs의 창시자가 있었음
+지금의 기술적인 형태는 아니지만 Pepper's Ghost라는 기술이 있었음
+
+이후에 군대에서 만들어지거나 교육 프로그램, HMDs의 창시자가 있었음 1968년
+
+US에서 전투에 활용할 수 있는 AR을 만들었음
+
+US Air Force Super Cockpit
 
 ## AR04
 
@@ -72,3 +78,22 @@ AR은 MR, XR, VR의 개념을 다 가지고 있음
 
 ARCore, ARKit, Vuforia, EasyAR, ARFoundation
 
+각 라이브러리, 툴의 차이점등을 비교
+
+## AR05
+
+AR이 활용되는 분야에 대한 분류
+
+## AR06
+
+AR이 필요로 하는 기술에 대한 분류
+
+## AR07
+
+트랙킹 기술에 대한 기술
+
+## AR08
+
+Optical Tracking
+
+트랙킹 고급 기술
